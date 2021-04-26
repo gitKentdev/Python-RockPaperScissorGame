@@ -1,6 +1,6 @@
 Prejoct name: **Rock-Paper-Scissor Game**
 
-02-04-2021
+04-02-2021
 
 --- 
 
